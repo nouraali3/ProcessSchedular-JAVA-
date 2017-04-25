@@ -1,0 +1,12 @@
+1) open netbeans
+2) click file
+3) click open project ,then open the folder containing project
+4) then click on guitrial and then open project
+4) run the project 
+
+Types of scedulars i support
+
+FCFS
+SJF (non preempted)
+priority (non preempted) (Note: it doesn't function well if one process arrived after the previous processes finish )
+RR
